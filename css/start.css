@@ -1,0 +1,9 @@
+#logintable td{padding:6px;text-align: right;color:#474848;}
+#header{border-radius:4px 4px 0 0;z-index:1;height:40px; background:url(../img/logheader.png);line-height:40px;color:white;font-weight:bold}
+
+ #username {background:white url(../img/login.png) no-repeat 7px -11px}
+#password {background:white url(../img/login.png) no-repeat 7px -61px}
+ #logintable input{padding:7px 70px 7px 7px;width:260px;border-radius:5px 7px 7px 5px}
+ #logintable input {outline:none;border:none; }
+ #logintable button:focus{outline:none;}
+ #logintable button{height:32px;width:120px;border:1px solid #1aa9c8; border-radius:5px;color:white;}

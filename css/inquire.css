@@ -1,0 +1,59 @@
+body {
+	background:#eaeaea;
+}
+#mainbody{
+	width:100%;
+ 	margin: 0 auto;
+
+}
+#mainheader {
+	text-align: center
+}
+#content{
+	position:relative;
+	width:95%;
+	border-radius:4px;
+ 	margin: 0 auto;
+	background:white;
+ }
+#con-header{
+	background:url('../img/paymentheader.png');
+	padding:8px;
+	border-radius:4px 4px 0 0;
+}
+
+#con-header span{
+ 	padding:4px;
+ }
+
+#sylist{
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+#sylist li{
+	margin:0	;
+	display: block;
+	padding:5px;
+	text-align: center;
+	color:white;
+	background:url('../img/userlistheader.png');
+	font-weight: bold
+}
+
+#wrapper table {
+	width:100%;
+}
+#wrapper table td,#wrapper table th {
+	padding:2px;
+	border:1px solid #dedede;
+}
+
+#wrapper table {
+	padding:2px;
+	border:1px solid #dedede;
+}
+
+#wrapper table tr:gt(2):nth-child(odd){
+	background:#e7fff6;
+}

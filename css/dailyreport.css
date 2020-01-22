@@ -1,0 +1,13 @@
+
+.list:nth-child(even){background:#e5e6e6;}
+.list:nth-child(odd){background:white;}
+#dailreporttable td,#dailreporttable th{padding:2px;border:1px solid gray;}
+.tuicolumn,.misccolumn,.tfcolumn,.collectioncolumn {text-align: right}
+#orcon img{display:inline;cursor:pointer;opacity:1}
+ tr td:hover> img{display:inline-block;opacity:0.7 }.
+ .transcon {height: 15px}
+ #dailreporttable {width:96%;margin:0 auto;margin-bottom:60px;margin-top:10px;border-collapse:collapse}
+ .pname {text-transform:capitalize;height:20px;white-space:nowrap}
+ .remark  {text-align:center;text-decoration:none}
+ .dailyamount {text-align:right;border-bottom:1px solid transparent;border-top:1px solid transparent}
+ .collectioncolumn,.tfcolumn,.misccolumn,.tuicolumn {font-weight: bold}

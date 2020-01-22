@@ -1,0 +1,144 @@
+html{font-family:tahoma;font-size:14px;}
+body{background-color:#f5f3f3}
+input:focus,select:focus,button:focus{outline:none}
+input {outline:none;border:1px solid #898989}
+button:hover {cursor:pointer}
+* {margin:0;padding:0;}
+table {border-collapse:collapse}
+#header{height:120px;}
+#menucon{position:relative;background:url(../img/menubg2.png);height:45px; border:1px;border-bottom-right-radius:7px;border-bottom-left-radius:7px}
+#menucon span{font-size:12px;position:relative;left:10px;top:12px;color:white;font-weight:bold;padding:7px 7px 7px 25px;border-right:1px solid #cccbcb}
+#menucon span:hover{cursor:pointer}
+#menucon .usermanagement {background:url(../img/usermanagement.png) no-repeat 5px 5px;}
+#menucon #useraccount {background:url(../img/home.png) no-repeat 5px 5px;}
+#menucon .myaccount {background:url(../img/myaccount.png) no-repeat 5px 5px;}
+#menucon #student {background:url(../img/user_add.png) no-repeat 5px 5px;}
+#menucon .inventory {background:url(../img/inventory.png) no-repeat 5px 5px;}
+#menucon .scholar {background:url(../img/scholar.png) no-repeat 5px 5px;}
+#menucon #history {background:url(../img/contact-new.png) no-repeat 5px 5px;}
+#menucon #payment {background:url(../img/contact-new.png) no-repeat 5px 5px;}
+#menucon #settings {background:url(../img/services.png) no-repeat 5px 5px;}
+#menucon .scheduleoffees {background:url(../img/scheduleoffees.png) no-repeat 5px 5px;}
+#menucon #logout {background:url(../img/logout.gif) no-repeat 5px 5px;}
+#body{padding:1px 1px 60px 1px;border:5px solid #b8b9b9;border-radius:5px;width:1000px;position:relative;margin:0px auto;top:10px;background:white}
+#content{background:white;position:relative;top:60px;margin:5px 0 25px;}
+#loadcontent{position:relative}
+#mloader img {margin:0 auto;margin-top:10px;display:block;opacity:0}
+#contentheader,#schedsearch,#addcourseheader{border-radius:3px 3px 0 0;height:40px;background:url(../img/paymentheader.png)}
+/* student are */
+#addstudent{background:url(../img/addstudent.png) no-repeat 5px 2px;}
+#addscholar{background:url(../img/addscholar.png) no-repeat 5px 2px;}
+#othserschcon {position:relative}
+
+/* student payment area */
+ /* #sy .paymenthistcon:last-child table {} */
+.paymenthistcon table,.scantable {margin:10px 0 0 0;font-size:14px;background:white;width:480px;}
+ 
+ .sy {cursor:pointer;margin-bottom:2px;background:#d9d9d9;padding:5px;text-align:center}
+ #sy .paymenthistcon{display:none}
+ #sy .paymenthistcon:last-child{display:block}
+.paymenthistcon table th,.paymenthistcon table td,.scantable td,.scantable th {padding:5px 5px 5px 8px;border:1px solid  #b1b1b1}
+.paymenthistcon table th,.scantable th {background:#1e8bc9;color:white;padding:8px}
+#paymentwrap{width:500px;border-radius:5px;border:1px solid #d5d5d5;padding:30px;position:relative;margin:0 auto;margin-top:50px}
+.tablehead td{font-size:13px;text-align:center;background:#ced0d2;font-weight:bold}
+ #headeroption{padding:0 0 0 7px;float:left;line-height:40px;}
+#headeroption span{border:1px solid transparent;font-size:12px;color:white;font-weight:bold;padding:4px 4px 4px 25px;}
+#headeroption span:hover{cursor:pointer;border-radius:3px;border:1px solid #c5e0e3;box-shadow:inset 0 0 2px white;}
+#payhistory{background:url(../img/contact-new.png) no-repeat 5px 2px;}
+#adduser{background:url(../img/user_add.png) no-repeat 5px 2px;}
+#addsched{background:url(../img/addsched.png) no-repeat 5px 2px;}
+.dailyreport{background:url(../img/inventory.png) no-repeat 5px 2px;}
+.dailydeposit{background:url(../img/dailydeposit.png) no-repeat 5px 2px;}
+.monthlyreport{background:url(../img/monthlyreport.png) no-repeat 5px 2px;}
+#paymenttable .errorf {border:1px solid red}
+#otherschcon,#otherschcon2 {display:none;position:relative}
+#otherschcon input,#otherschcon2 input{margin-top:4px}
+#closescholar {opacity:0.8;background-image:url('../img/error.png');width:20px;height:17px;position:absolute;right:2px;top:9px}
+.closedes {opacity:0.8;background-image:url('../img/closedes.png');width:15px;height:15px;float:right;position:relative;right:-5px;top:4px}
+.closedes:hover,#closescholar:hover{opacity:1;cursor:pointer}
+.otheramountcon{position:relative}
+#studescription select {width:202px}
+#stucourse2con{display:none;border:1px solid #cac8c8;border-radius:3px;position:relative;width:190px;height:20px;padding:3px 3px 3px 7px}
+#allcourse{opacity:0.6;width:18px;height:18px;background:url(../img/error.png);position:absolute;right:5px;top:4px}
+#allcourse:hover{opacity:1;cursor:pointer}
+#studescription td{padding:12px 6px 12px 6px}
+
+/* payment area */
+#paymenttable{margin:0 auto;}
+#paymenttable th{text-align:left}
+#paymenttable td{padding:5px}
+#savepayment{background:url(../img/savepayment.png)}
+
+/* user account area*/
+#usersuggest {display:none	;color:#666565;outline:1px solid #c9c8c8;min-width:233px;right:-1px;top:29px;z-index:5;;background:white;position:absolute}
+#usersuggest td{border:1px solid #f1f0f0;padding:2px 5px 2px 5px;}
+#usersuggest tr:hover{background:#ececec;cursor:pointer}
+.searchcon{background:#dfe8fe;}
+#searchusercon{background:white;position:relative;top:6px;right:6px;float:right;width:220px;padding:2px 7px 2px 7px;border:1px solid #c9c6c6;border-radius:4px}
+#searchusercon input{width:190px;border:none;color:#7f7a7a}
+#searchusercon #lens{float:right}
+#addusercon,#studescription{display:none;background:#f4f4f4;padding:20px 0 20px 30px;top:20px;width:670px;position:relative;margin:0 auto;margin-bottom:40px}
+#addusercon input,#studescription input,#paymenttable input{color:#4f4e4e;width:190px;height:15px;padding:5px;border-radius:3px;border:1px solid #c2c0c0}
+#ndepartment,#studescription select,#paymenttable select{color:#4f4e4e;height:28px;padding:3px;width:200px;border-radius:3px;border:1px solid #c2c0c0}
+#studescription #stucourse2{border:none;left:0px;top:0px;width:160px;position:absolute}
+#studescription select{ width:203px}
+#addloader,#addstudentloader{display:none;float:left;position:relative;margin-right:-160px;right:160px;top:7px}
+#userlist,#studlist  {;top:-1px;position:relative;width:100%}
+#userlist th,#studlist th{background:url(../img/userlistheader.png);border-right:1px solid #878989;height:35px;padding:0 8px 0 8px;color:#dfdfdf}
+#userlist td,#studlist td{border:1px solid #dfdfdf;padding:4px;}
+#userlist .ulist:nth-child(even),#studlist .slist:nth-child(even),.rlerow:nth-child(odd),.otherrow:nth-child(odd),.gradrow:nth-child(odd),.transrow:nth-child(odd){background:#e5e6e6;}
+#userlist .ulist:nth-child(odd),#stulist .slist:nth-child(odd){background:white;} 
+#viewall{display:none;box-shadow:1px 1px 5px gray;background:url(../img/bgbut.png);border:1px solid transparent;border-radius:4px;color:white;margin:5px;position:relative;height:27px;width:120px}
+#viewall:hover{cursor:pointer;opacity:0.9}
+.action {text-align:right}
+.actionwrap,.actionwrap2{margin:0px auto;position:relative}
+.actionwrap,.actionwrap2{width:165px}
+.actionwrap2{width:240px}
+.uploading{display:none;float:left;position:absolute;top:4px}
+
+.updateuserbut,.saveupdate,#cancelupdate,#log{margin-left:3px;cursor:pointer;float:left;border:1px solid #cccccc;border-radius:3px;height:25px;width:77px;padding:0 0 0 12px;}
+.updateuserbut{background:url(../img/update.png)}
+.saveupdate{background:url(../img/save.png)}
+#cancelupdate{background:url(../img/cancel.png);}
+#log{background:url(../img/log.png)}
+.updateuserbut{background:url(../img/update.png)}
+.paybut{background:url(../img/pay.png)}
+.paymenthist{background:url(../img/paymenthist.png)}
+.updateuserbut:hover,.saveupdate:hover,#cancelupdate:hover,#log:hover{opacity:0.8}
+#adduserbut,#addstudentbut,#savepayment{float:left;border-radius:5px;color:white;font-weight:bold;border:none;height:30px;width:200px}
+#adduserbut{background:url(../img/adduser.png)}
+#addstudentbut{background:url(../img/adduser.png)}
+#savepayment{background:url(../img/savepayment.png);float:right;width:150px;margin:5px 0 0 3px}
+.print,#savepayment,.download{box-shadow:2px 2px 5px #414141}
+.print:focus,#savepayment:focus{box-shadow:1px 1px 5px #b5b5b5}
+.print {position:absolute;bottom:-40px;height:30px;right:2px;width:100px;border:none;border-radius:4px;background:url(../img/print.png)}
+.download {background: url('../img/download.png');height: 30px;width:130px;border:none;border-radius:5px;}
+#adduserbut:hover,#addstudentbut:hover{cursor:pointer;opacity:0.9}
+.ucheck{display:none;float:left;position:relative;margin-right:-23px;right:23px;top:5px}
+#ucheckload{height:15px;top:6px}
+#overlay{display:none;z-index:1000;position:fixed;width:100%;height:100%;top:0px;right:0px;left:0px;background:black;opacity:0.7}
+
+/*modal box*/
+#modal {display:none;z-index:1001;position:fixed;top:0;bottom:0;left:0;right:0;height:100%;width:100%;}
+#halign {text-align:left;border-radius:5px;display:inline-block}
+#addcourseform td{padding:5px;}
+#addcoursecon {background:white;border-radius: 5px}
+#addcoursecon table {width:100%;}
+#addcoursetable {width:100%;}
+#addcoursetable td{padding:5px;}
+#addcoursecon input {width:195px;padding:5px;}
+#addcoursecon select {width:208px;padding:5px;}
+#savecourse,#saveaddcoursebut {font-weight:bold;width:208px;padding:4px;}
+#addcourseform tr td:first-child {padding-left: 20px}
+#addcoursetable tr td:first-child {padding-left: 20px}
+.canceldepartment,.cancelcourse {height:15px;width:15px;position:absolute;right:30px;top:12px;}
+.closemodal  {height:15px;width:15px;position:absolute;right:8px;top:12px;}
+#addcourseheader {position: relative;padding-left:10px;color:white;font-weight:bold;width:400px;line-height:40px;height:40px}
+.adddeptrow {display: nsone}
+.footer {font-size:13px;font-family:tahoma,arial,verdana;color:#343232;position:absolute;padding-top:20px;width:100%; text-align:center;line-height:15px;bottom:0;height:80px;backfground:url('../img/footer.png');margin-bottom:-100px}
+.footer2 {font-size:13px;font-family:tahoma,arial,verdana;color:#343232;text-align:center;width:100%;position:absolute;background:transparent;color:#7e7e7e; bottom:0px;height:50px;}
+/*#box{display:ndone;z-index:1001;position:fixed;width:100%;height:100%;top:0px;right:0px;left:0px}*/
+/*#valign{position:relative;top:50%;height:150px;width:350px;margin:0px auto}*/
+/*#halign{border-radius:4px;position:absolute;top:-75px;}*/
+
+

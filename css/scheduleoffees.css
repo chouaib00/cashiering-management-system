@@ -1,0 +1,78 @@
+
+.feeamount {width:50px;}
+
+.schoolfeedesc {width:135px}
+.adddeptrow {display: none}
+.miscdesccon {text-align: right;}
+.row select {width:60px;}
+.removeadd {display:none;opacity:0.8;border:none;background-color:transparent;background-image:url('../img/removeadd.png');background-repeat:no-repeat;height:15px;width:15px;position: absolute;right:3px;top:5px;}
+.removeadd:hover {opacity:1;cursor:pointer;}
+table {border-collapse: collapse;}
+#schoolfeetable td{border:1px solid #a7a7a7;text-align:center;position: relative;}
+#searchschedbut {background-image:url('../img/lens.png');cursor:pointer;background-position:4px 5px;background-repeat:no-repeat;border-radius:10px;padding:15px;position:absolute;top:-7px;right:-31px;background-color:white;height:20px;width:20px}
+#schedsearch {color:#e6e6e6}
+#schoolfeetable .row:nth-child(even) {background: white}
+#schoolfeetable .row:nth-child(odd) {background: #e5e6e6}
+#schoolfeetable .row:hover{background:#c4ddfc}
+.miscdesccon span {padding-left: 10px}
+#schoolfeetable {margin-bottom:1px;background:#f8f7f7}
+.row span {font-size:15px}
+#schoolfeetable .row td{padding:4px 0 4px 0;}
+#schoolfeetable tr td:first-child{text-align:left;width:138px;padding:2px;}
+#schedheader{background:url('../img/schedheader2.png');padding:10px;text-align:center;color:white}
+#schedheader select {display:none;border:1px solid transparent}
+.regcourselist {padding:4px 0 4px 0;}
+#courses {padding:7px;}
+.row span {display: }
+.schoolfeedesc, .miscdesc{display:block;padding-right:15px}
+#cancelschedupdate {display:none;}
+#schedcon {width:100%;overflow:auto}
+#schoolfeetable input,#schoolfeetable select,#schoolfeetable .removeadd{display:none}
+ .removecourse {cursor:pointer;right:-1px;border:none;background:url(../img/removecourse.png);top:-5px;margin:0;position:absolute;padding:0px;height:12px;width:12px;}
+.regcourselist div:hover > button{opacity:0.8}
+.regcourselist button{opacity: 0.3;display:none}
+	/* .miscfee,{display:none;border:none;height:22px;width:22px;background-position:-1px -1px;background-image:url('../img/add.png');background-repeat:no-repeat}
+*/#schedopt {float:right;margin:11px 40px 0 0 ;position: relative;}
+#schedopt img,#savemiscloader,#addschedloader,#savemiscloader,#addcourseload {position: relative;top:3px;display:none;}
+#addschedloader {top:3px;}
+#schedopt select,#schedopt button {border:1px solid white;}
+.dupentry,.dupentry2 {position:absolute;box-shadow:0 0 10px white;top:-1px;border-radius:3px;z-index:10;background:#575555;color:white;padding:7px;display: none;}
+.dupentry2 {right:-110px;top:-2px;padding:6px;}
+.dupentry div,.dupentry2 div {position:absolute;height:0;width:0;left:-15px;border:8px solid transparent;border-right-color:#575555}
+#warning {padding-left:50px}
+.schedbut {background:url(../img/bgbut.png);float:right;border:1px solid white;padding:8px 20px 8px 20px;margin:5px 3px 6px 0;}
+.feeamount,.miscdesc,.schoolfeedesc{padding:2px;margin:1px;border:1px solid #b8b7b7;} 
+#separator {margin-top:10px;background:#b0afaf ;padding:5px;color:white}
+.miscdesc {margin-left:15px;width:120px}
+/*add course*/
+#addcourseform td{padding:5px;}
+#addcoursecon {background:white;border-radius: 5px}
+#addcoursecon table {width:100%;}
+#addcoursetable {width:100%;}
+#addcoursetable td{padding:5px;}
+.closemodal  {height:15px;width:15px;position:absolute;right:8px;top:12px;}
+#addcourseheader {position: relative;padding-left:5px;color:white;font-weight:bold;width:400px;line-height:40px;height:40px}
+
+
+/*loadaddsched*/
+#rletable {float:left;width:288px;margin-right: 12px}
+#othertable {float:left;width:336px}
+#othermisctable {margin-top:10px;}
+#transtable,#gradtable,#othermisctable {width:336px}
+#gradtable {margin-bottom:10px}
+ #rletable,#othertable,#transtable,#gradtable,#othermisctable {background:#f8f7f7;border:1px solid #858585;}
+
+
+#othertable input,.cat,#rletable select,#gradtable input,#rletable  input,#transtable input,#othermisctable input{border:1px solid #b8b7b7;padding:2px;}
+.otherdesc,.graddesc,.transdesc,.othermiscdesc {width:134px;}
+.otheramount,.gradamount,.transamount,.rleyear,.miscotheramount {width:60px;}
+#rletable td,#othertable td,#gradtable td,#transtable td,#othermisctable td{font-size:15px;position: relative;padding:3px;}
+.rlecourse {padding:0 25px 0 0;display:block;width:90px;}
+.th {text-align:center}
+
+#rletable {padding:2px;}
+.rleamount {width:60px;}
+.removerlecourse,.removeotherdesc{right:0px;height:15px;width:15px;cursor:pointer;border:none;background-color:transparent;background-image:url(../img/removeadd.png);background-repeat:no-repeat;background-position:1px 1px;position:absolute;top:1px;}
+.rlecourseadd {background-color:transparent;background-image:url('../img/addcourse.png');background-repeat:no-repeat;border:none;position: absolute;top:2px;right:15px;height:15px;width:15px;}
+.transbut,.gradbut {top:3px;right:4px;}
+.removeotherdesc {top:3px;right:4px;}

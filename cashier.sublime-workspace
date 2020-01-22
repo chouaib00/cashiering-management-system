@@ -1,0 +1,1359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"check",
+				"checkifgradpaid"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"fo",
+				"for	for …"
+			],
+			[
+				"subs",
+				"substr_compare"
+			],
+			[
+				"rece",
+				"receipt"
+			],
+			[
+				"getl",
+				"getyearlevel"
+			],
+			[
+				"year",
+				"year"
+			],
+			[
+				"payment",
+				"paymentlist"
+			],
+			[
+				"new",
+				"newyear"
+			],
+			[
+				"repl",
+				"replaceWith	.replaceWith()"
+			],
+			[
+				"th",
+				"this	$(this)"
+			],
+			[
+				"first",
+				"firstor"
+			],
+			[
+				"all",
+				"alldate"
+			],
+			[
+				"miscth",
+				"miscthrow"
+			],
+			[
+				"coun",
+				"countdeptspan"
+			],
+			[
+				"misct",
+				"miscthrow"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"stud",
+				"studpay"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName"
+			],
+			[
+				"ifr",
+				"iframe	Tag"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tet",
+				"text-indent"
+			],
+			[
+				"pre",
+				"prepend	.prepend()"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"con",
+				"contents	.contents()"
+			],
+			[
+				"re",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"rea",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"i",
+				"ita	CSS - font-style: italic;"
+			],
+			[
+				"foin",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bott",
+				"bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"slide",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"MARGIN",
+				"margin-left"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"border-col",
+				"border-collapse"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"animate",
+				"animate	.animate()"
+			],
+			[
+				"cl",
+				"clearInterval();"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"backgo",
+				"background"
+			],
+			[
+				"sy",
+				"sy"
+			],
+			[
+				"wp",
+				"wp_enqueue	WordPress Enqueue Script"
+			],
+			[
+				"get_the_auth",
+				"get_the_author_meta"
+			],
+			[
+				"get_auth",
+				"get_author_posts_url"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"f",
+				"for	Attr"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"post",
+				"postdate"
+			],
+			[
+				"get",
+				"getlastdate"
+			],
+			[
+				"searc",
+				"search"
+			],
+			[
+				"mysql_c",
+				"mysql_connect"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"tuith",
+				"tuith"
+			],
+			[
+				"vau",
+				"value"
+			],
+			[
+				"valu",
+				"value"
+			],
+			[
+				"value",
+				"value2"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"date",
+				"daterow"
+			],
+			[
+				"coutn",
+				"countdeptspan"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"va",
+				"value2"
+			],
+			[
+				"number",
+				"number_format"
+			],
+			[
+				"dep",
+				"deposit"
+			],
+			[
+				"chec",
+				"check"
+			],
+			[
+				"vote",
+				"voterow"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"col",
+				"col_id"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"misc",
+				"miscarray"
+			],
+			[
+				"tui",
+				"tuinotin"
+			],
+			[
+				"tuit",
+				"tuith"
+			],
+			[
+				"dis",
+				"displayedtui"
+			],
+			[
+				"displ",
+				"displayedmisc"
+			],
+			[
+				"paymne",
+				"payment_desc"
+			],
+			[
+				"tfr",
+				"tfrow"
+			],
+			[
+				"limit",
+				"limitstart"
+			],
+			[
+				"mysql_er",
+				"mysql_error"
+			],
+			[
+				"misccat",
+				"misccattotal"
+			],
+			[
+				"arr",
+				"arrayorder"
+			],
+			[
+				"dummy",
+				"dummytable"
+			],
+			[
+				"std",
+				"studpay"
+			],
+			[
+				"cold",
+				"col_id"
+			],
+			[
+				"studp",
+				"studpay"
+			],
+			[
+				"whie",
+				"white-space"
+			],
+			[
+				"PAYMEN",
+				"payment_desc"
+			],
+			[
+				"tuia",
+				"tuiarray"
+			],
+			[
+				"tft",
+				"tfth"
+			],
+			[
+				"b",
+				"biggestid"
+			],
+			[
+				"payemt",
+				"payment_id"
+			],
+			[
+				"payment_",
+				"payment_id"
+			],
+			[
+				"misca",
+				"miscarray"
+			],
+			[
+				"paymen",
+				"paymentlist"
+			],
+			[
+				"payent",
+				"payment_id"
+			],
+			[
+				"STY",
+				"style"
+			],
+			[
+				"clear",
+				"clearInterval();"
+			],
+			[
+				"clea",
+				"clearTimeout();"
+			],
+			[
+				"paymet",
+				"payment_id"
+			],
+			[
+				"payme",
+				"paymentlist"
+			],
+			[
+				"mone",
+				"money_exceeded"
+			],
+			[
+				"mon",
+				"money_exceeded"
+			],
+			[
+				"pay",
+				"payment_id"
+			],
+			[
+				"sched",
+				"sched_id"
+			],
+			[
+				"sta",
+				"statusrow"
+			],
+			[
+				"moe",
+				"moneytopay"
+			],
+			[
+				"mo",
+				"money"
+			],
+			[
+				"st",
+				"stud_id"
+			],
+			[
+				"amount",
+				"amountadvancepayment"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "alive.php",
+			"settings":
+			{
+				"buffer_size": 76,
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "printreceipt3.php",
+			"settings":
+			{
+				"buffer_size": 2305,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "inventory/printdailyreport.php",
+			"settings":
+			{
+				"buffer_size": 13567,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "User account/printindividual.php",
+			"settings":
+			{
+				"buffer_size": 14929,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "User account/moneylog.php",
+			"settings":
+			{
+				"buffer_size": 16113,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "User account/log.php",
+			"settings":
+			{
+				"buffer_size": 8415,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "User account/searchdeposited.php",
+			"settings":
+			{
+				"buffer_size": 4812,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"Snippet: ht",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Project: Save As"
+			],
+			[
+				"htm ",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"h",
+				"Snippet: html"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"HT",
+				"Snippet: html"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"oacka",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ht ml",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/cashier",
+		"/D/xampp/htdocs/cashier/User account",
+		"/C/SPTParol/1"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/cashier/printreceipt.php",
+		"/D/xampp/htdocs/cashier/login.php",
+		"/D/xampp/htdocs/cashier/student/askreceiptforscanning.php",
+		"/D/xampp/htdocs/cashier/student/askreceipt.php",
+		"/D/xampp/htdocs/cashier/scholarship/searchscholarship.php",
+		"/D/xampp/htdocs/cashier/scholarship/printscholarreceipt.php",
+		"/D/xampp/htdocs/cashier/student/printpreview.php",
+		"/D/xampp/htdocs/cashier/inventory/printmonthlyreport.php",
+		"/D/xampp/htdocs/cashier/inventory/printmonthlyreport2.php",
+		"/D/xampp/htdocs/cashier/home.php",
+		"/D/xampp/htdocs/cashier/settings.php",
+		"/D/xampp/htdocs/cashier/setdate.php",
+		"/D/xampp/htdocs/cashier/student/printpreviewscanreceipt.php",
+		"/D/xampp/htdocs/cashier/printreceipt3.php",
+		"/D/xampp/htdocs/cashier/printreceipt2.php",
+		"/D/xampp/htdocs/cashier/student/savefullpayment.php",
+		"/D/xampp/htdocs/cashier - Copy/inventory/printmonthlyreport.php",
+		"/D/xampp/htdocs/cashier/User account/searchdeposited.php",
+		"/D/xampp/htdocs/cashier/scholarship/printscholarship.php",
+		"/D/xampp/htdocs/cashier/inventory/repreprintreceipt.php",
+		"/D/xampp/htdocs/cashier/User account/log.php",
+		"/D/xampp/htdocs/cashier/User account/moneylog.php",
+		"/D/xampp/htdocs/cashier/User account/searchmoneylog.php",
+		"/D/xampp/htdocs/cashier/User account/printindividual.php",
+		"/D/xampp/htdocs/cashier/inventory/dailyreport.php",
+		"/D/xampp/htdocs/cashier/inventory/printdailyreport.php",
+		"/D/xampp/htdocs/cashier/User account/useraccount.php",
+		"/D/xampp/htdocs/cashier/User account/editdate.php",
+		"/D/xampp/htdocs/cashier/student/saverefundfunction.php",
+		"/D/xampp/htdocs/cashier/student/selectsearchstud.php",
+		"/D/xampp/htdocs/cashier/loadaddsched.php",
+		"/D/xampp/htdocs/cashier/searchsched.php",
+		"/D/xampp/htdocs/practice/index.php",
+		"/D/xampp/htdocs/cashier/User account/printreport.php",
+		"/D/xampp/htdocs/cashier/inventory/cancelreceipt.php",
+		"/D/xampp/htdocs/cashier/User account/deletereceipt.php",
+		"/C/Users/dell/Documents/demo/mywebsite.html",
+		"/D/xampp/htdocs/gallery/index.php",
+		"/D/xampp/htdocs/canvas2/js/gallery.js",
+		"/D/xampp/htdocs/canvas2/slider.php",
+		"/D/xampp/htdocs/cashier/student/scanreceipt.php",
+		"/D/xampp/htdocs/website/notification.php",
+		"/C/Users/dell/Downloads/demo.sql",
+		"/D/xampp/htdocs/cashier/register.php",
+		"/D/xampp/htdocs/gallery/submit.php",
+		"/D/xampp/htdocs/gallery/form.php",
+		"/D/xampp/htdocs/index.php",
+		"/D/xampp/htdocs/cashier/student/paymenthist.php",
+		"/D/xampp/htdocs/index.html",
+		"/D/xampp/htdocs/cashier/searchstud.php",
+		"/D/xampp/htdocs/cashier/signatory.php",
+		"/D/xampp/htdocs/cashier/startheader.php",
+		"/D/xampp/htdocs/cashier/student.php",
+		"/D/xampp/htdocs/cashier/addstudent.php",
+		"/D/xampp/htdocs/cashier/adduser.php",
+		"/D/xampp/htdocs/cashier/addsignatory.php",
+		"/D/xampp/htdocs/cashier/checkor.php",
+		"/D/xampp/htdocs/cashier/checkusername.php",
+		"/D/xampp/htdocs/cashier/dbconfig.php",
+		"/D/xampp/htdocs/cashier/deleteaddedcourse.php",
+		"/D/xampp/htdocs/cashier/error.php",
+		"/D/xampp/htdocs/cashier/home1.php",
+		"/D/xampp/htdocs/cashier/index.php",
+		"/D/xampp/htdocs/cashier/dailyreport.php",
+		"/D/xampp/htdocs/cashier/loadaddcourse.php",
+		"/D/xampp/htdocs/cashier/inquire.php",
+		"/D/xampp/htdocs/cashier/loadaddsched -last.php",
+		"/D/xampp/htdocs/cashier/loadaddsched2.1.php",
+		"/D/xampp/htdocs/cashier/loadaddsched3.php",
+		"/D/xampp/htdocs/cashier/loadaddsched2.php",
+		"/D/xampp/htdocs/cashier/logout.php",
+		"/D/xampp/htdocs/cashier/newscholar.php",
+		"/D/xampp/htdocs/cashier/numbertoword.php",
+		"/D/xampp/htdocs/cashier/otherfee.php",
+		"/D/xampp/htdocs/cashier/pay.php",
+		"/D/xampp/htdocs/cashier/monthlyreport2.php",
+		"/D/xampp/htdocs/cashier/rand.php",
+		"/D/xampp/htdocs/cashier/saveaddsignatory.php",
+		"/D/xampp/htdocs/cashier/savegrad.php",
+		"/D/xampp/htdocs/cashier/savemisc.php",
+		"/D/xampp/htdocs/cashier/savemisc2.php",
+		"/D/xampp/htdocs/cashier/savenewcourse.php",
+		"/D/xampp/htdocs/cashier/savenote.php",
+		"/D/xampp/htdocs/cashier/saveotherfee.php",
+		"/D/xampp/htdocs/cashier/savepayment.php",
+		"/D/xampp/htdocs/cashier/saveregister.php",
+		"/D/xampp/htdocs/cashier/saverle.php",
+		"/D/xampp/htdocs/cashier/saveschoolfee.php",
+		"/D/xampp/htdocs/cashier/savesettings.php",
+		"/D/xampp/htdocs/cashier/savemisc2.1.1.php",
+		"/D/xampp/htdocs/cashier/saveupdatemisc.php",
+		"/D/xampp/htdocs/cashier/saveupdatestudentrecord not used.php",
+		"/D/xampp/htdocs/cashier/scheduleoffees.php",
+		"/D/xampp/htdocs/cashier/saveupdateotherfee.php",
+		"/D/xampp/htdocs/cashier/scheduleoffees2.php",
+		"/D/xampp/htdocs/cashier/scheduleoffees1.1.php",
+		"/D/xampp/htdocs/cashier/scheduleoffeeslast.php",
+		"/D/xampp/htdocs/cashier/scheduleoffees3-copy.php",
+		"/D/xampp/htdocs/cashier/User account/savedeposit.php",
+		"/D/xampp/htdocs/cashier/User account/savereset.php",
+		"/D/xampp/htdocs/cashier/User account/saveupdateuser.php",
+		"/D/xampp/htdocs/cashier/User account/searchactionlog.php",
+		"/D/xampp/htdocs/cashier/User account/searchuser.php",
+		"/D/xampp/htdocs/cashier/User account/selectsearch.php",
+		"/D/xampp/htdocs/cashier/User account/updateuser.php",
+		"/D/xampp/htdocs/cashier/student/savescaanamount.php",
+		"/D/xampp/htdocs/cashier/student/savestudentstatus.php",
+		"/D/xampp/htdocs/cashier/student/savetransfercancelstatus.php",
+		"/D/xampp/htdocs/cashier/student/savetransferexceedmoneytootherstudent.php",
+		"/D/xampp/htdocs/cashier/student/savetransferexceedmoney.php",
+		"/D/xampp/htdocs/cashier/student/saveupdatestudentrecord.php",
+		"/D/xampp/htdocs/cashier/student/scanreceipt1.1.1.php",
+		"/D/xampp/htdocs/cashier/student/scanreceipt - Copy.php",
+		"/D/xampp/htdocs/cashier/student/scanreceipt2.php",
+		"/D/xampp/htdocs/cashier/student/scanreceipt3.php",
+		"/D/xampp/htdocs/cashier/student/searchlastname.php",
+		"/D/xampp/htdocs/cashier/student/selectsearchstud2.1.php",
+		"/D/xampp/htdocs/cashier/student/statementofaccount.php",
+		"/D/xampp/htdocs/cashier/student/selectsearchstud2.php",
+		"/D/xampp/htdocs/cashier/student/updatecancelstatus.php",
+		"/D/xampp/htdocs/cashier/student/updaterefund.php",
+		"/D/xampp/htdocs/cashier/student/viewstudent.php",
+		"/D/xampp/htdocs/cashier/student/asktransfer2.php",
+		"/D/xampp/htdocs/cashier/student/asktransferamountcancelstatus.php",
+		"/D/xampp/htdocs/cashier/student/balancedetection.php",
+		"/D/xampp/htdocs/cashier/student/asktransferexceedmoney.php",
+		"/D/xampp/htdocs/cashier/student/cancelstatus.php",
+		"/D/xampp/htdocs/cashier/student/detectfullpayment.php"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print re",
+			"print co",
+			"200px",
+			"receipt_number",
+			"receipt_num :",
+			"receipt_num:",
+			"date",
+			"$date",
+			"date(",
+			"date",
+			"0.00",
+			"number",
+			"allmisctotal",
+			"0.00",
+			"0.0",
+			"format",
+			",2)",
+			"number_format(",
+			"2)",
+			"align='righ",
+			"\">\n",
+			"strin",
+			"logbuts",
+			"Print Collection",
+			"editdate",
+			"countCancelled",
+			"changedate",
+			"editdate",
+			"changedate",
+			"print report",
+			"showeditdate",
+			"showshowedit",
+			"editdate",
+			"changedate",
+			"editdate",
+			"reset(",
+			"addtrans(",
+			"addtrans",
+			"savefullpayment",
+			"4",
+			"<script",
+			"receiptdel",
+			"user is",
+			"'];",
+			"saverefundfunction",
+			"remainingbal",
+			"insert",
+			"inclu",
+			"url:",
+			"exceed",
+			"jakecornelia",
+			"insert",
+			"insert'",
+			"insert",
+			"exceeded_money",
+			"$.ajax",
+			"insert",
+			"insert into",
+			"exceeded",
+			"updaterefund",
+			"Receipt Number:",
+			"receipt_num=",
+			"ww",
+			"w",
+			"receipt_num=",
+			"inventory",
+			"dailyreport(",
+			"receipt_num=",
+			"cancelreceipt",
+			"dummyda",
+			"$daterow[",
+			"daterow",
+			"deposit(",
+			"deposit",
+			"D",
+			"checked",
+			"printscanreceipt",
+			"limitstart",
+			"searchsched",
+			"removecourse",
+			"delete",
+			"insert",
+			"IV",
+			"rand",
+			"dbconfig",
+			"Related Learning Experience (RLE)\n",
+			"rle",
+			"addcourse(",
+			"addcourse",
+			"loadaddcourse",
+			"addcourse",
+			"student",
+			"student	",
+			"student",
+			"searchsched",
+			"year_level='$year'",
+			"year_level like",
+			"savemisc",
+			"searchsched",
+			"<scr",
+			"Laboratory Fee",
+			"related",
+			"rle",
+			"year",
+			"savemisc",
+			"savefullpa",
+			"year_level",
+			"statementofaccount",
+			"year",
+			"year_level",
+			"inclu",
+			"year_level lik",
+			"year_level",
+			"include",
+			"year_level like",
+			"year_level",
+			"year_level like",
+			"savefullpayment",
+			"savemisc",
+			"searchsched",
+			"alert(\"ERROR: Sc",
+			"alert(\"ERROR:",
+			"alert(",
+			"saveschedupdate",
+			"ERROR: SC",
+			"year",
+			"year_level",
+			"					"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"0",
+			"",
+			"($year)",
+			"pre",
+			".mainmenu li",
+			"sycontainer",
+			"\"",
+			"($studpayrow['remark']=='Cancelled')",
+			"$studpayrow['remark']=='Cancelled')",
+			"$studpayrow['remark']=='Cancelled'",
+			"$date",
+			"cancelled",
+			"('', '",
+			";",
+			"dummydata",
+			"$status",
+			"$year_level",
+			"",
+			"//$paymentexplode=detectfullpayment($GLOBALS['course_id'],$GLOBALS['year_level'],$sy,$semester,$stud_id);",
+			"$status",
+			"autocomplete='off'",
+			"$_POST['to_stud_id']",
+			"schedule_of_fees",
+			"$sytosave",
+			"$semestertosave",
+			"$sytosave",
+			"course[year_level]",
+			"$course['status']",
+			";",
+			"Cancelled",
+			"\\'s",
+			"]",
+			"[",
+			"$a[lname]",
+			"",
+			"$id",
+			"candidate.party_id='$party_id'",
+			"party_id='$party_id'",
+			"remark='0'",
+			"$tfth=tfth()",
+			"semester='II'",
+			"value='II",
+			"semester='II'",
+			"$miscnotin",
+			"$tuinotin",
+			"$tfnotin",
+			"$semester",
+			"date='$date'",
+			"miscth()",
+			"tuith()",
+			"(date='$date')",
+			"collection",
+			" (date='$date'))",
+			" ",
+			"remark='0'",
+			"course_id",
+			"$year_level",
+			"$semester",
+			"$sy",
+			"select * from exceeded_money",
+			"select * from advance_payment",
+			"Vice-Governor",
+			"",
+			"changed",
+			"Update",
+			"'$user_id','0')\")",
+			";",
+			",'$user_id','0')",
+			"",
+			"overallexceededmoney",
+			"schedule_of_fees.sy",
+			",'$_SESSION[sy]','$_SESSION[semester]','",
+			"$semester",
+			"$sy",
+			"tuitiontotalbottom",
+			"tuicat",
+			"$stud_id",
+			"<input type=\"checkbox\" value=\"<?=$schedrow['sched_id'];?><-><?=$schedrow['amount'];?>\">",
+			"scholar_id",
+			"$year",
+			"$sy",
+			"$semester",
+			"$sy",
+			"$year",
+			"$semester",
+			"$sy",
+			"$year",
+			"$semester",
+			"$sy"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "alive.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "printreceipt3.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								439
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "inventory/printdailyreport.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								266
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 243.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "User account/printindividual.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14929,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14918,
+								14918
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 13905.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "User account/moneylog.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								868,
+								631
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 972.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "User account/log.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5379,
+								5379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 848.0,
+						"translation.y": 4507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "User account/searchdeposited.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3310,
+								3310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 809.0,
+						"translation.y": 2050.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 157.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "cashier.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
